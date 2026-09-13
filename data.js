@@ -45,7 +45,6 @@ window.SITE_DATA = {
       { k: "学历", v: "南京工程学院 · 测控技术与仪器", s: "本科 · 2027 届 · 在读" },
       { k: "年龄", v: "21" },
       { k: "邮箱", v: "2253421641@qq.com", link: "mailto:2253421641@qq.com" },
-      { k: "手机", v: "15951746778" },
       { k: "B 站", v: "@HeilSun", link: "bili", ext: true }
     ]
   },
@@ -146,11 +145,9 @@ window.SITE_DATA = {
     sc: "SC-05 / CONTACT",
     big: "把菲尼克斯电气，\n带回我的校园。",
     email: "2253421641@qq.com",
-    phone: "15951746778",
     biliLabel: "space.bilibili.com/33581941",
     location: "南京 · 南京工程学院",
     emailGo: "发邮件 ↗",
-    phoneGo: "随时可联系",
     biliGo: "打开主页 ↗",
     locationGo: "在校 · 可长期投入"
   }
